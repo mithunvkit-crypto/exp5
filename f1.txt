@@ -1,1 +1,2 @@
 1 entered one line
+second line added in git hub
